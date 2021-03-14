@@ -11,4 +11,4 @@ the results are in the q2
 ## the controllers using the kinematic model.
 ### the p controller 
 
-[![](/same_destination_3.png)]
+![](/same_destination_3.png)
